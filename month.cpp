@@ -38,31 +38,31 @@ int main() {
         break;
 
         case 6 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents June.\n";
         break;
 
         case 7 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents July.\n";
         break;
 
         case 8 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents August.\n";
         break;
 
         case 9 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents September.\n";
         break;
 
         case 10 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents October.\n";
         break;
 
         case 11 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents November.\n";
         break;
 
         case 12 :
-        std::cout << month << " represents May.\n";
+        std::cout << month << " represents December.\n";
         break;
 
         default:
